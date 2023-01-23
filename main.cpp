@@ -1,9 +1,3 @@
-/**
- * @file main.cpp
- * A simple C++ program that manipulates an image.
- *
- * @author CS 221: Basic Algorithms and Data Structures
-**/
 
 #include "lab_intro.h"
 #include "cs221util/PNG.h"
