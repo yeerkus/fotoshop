@@ -1,10 +1,3 @@
-/**
- * @file PNG.cpp
- * Implementation of a simple PNG class using RGBAPixels and the lodepng PNG library.
- *
- * @author CS 221: Data Structures
- */
-
 #include <iostream>
 #include <string>
 #include <algorithm>
